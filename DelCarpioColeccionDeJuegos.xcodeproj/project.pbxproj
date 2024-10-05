@@ -14,6 +14,8 @@
 		2325474B2CAB5FD800C70773 /* DelCarpioColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 232547492CAB5FD800C70773 /* DelCarpioColeccionDeJuegos.xcdatamodeld */; };
 		2325474D2CAB5FDA00C70773 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2325474C2CAB5FDA00C70773 /* Assets.xcassets */; };
 		232547502CAB5FDA00C70773 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2325474E2CAB5FDA00C70773 /* LaunchScreen.storyboard */; };
+		EF25AAA02CB1E0B400529D18 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF25AA9F2CB1E0B400529D18 /* JuegosViewController.swift */; };
+		EF25AAA22CB1E2D200529D18 /* imagen.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EF25AAA12CB1E2D200529D18 /* imagen.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		2325474C2CAB5FDA00C70773 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2325474F2CAB5FDA00C70773 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		232547512CAB5FDA00C70773 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF25AA9F2CB1E0B400529D18 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
+		EF25AAA12CB1E2D200529D18 /* imagen.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = imagen.jpeg; path = ../../../../../../Downloads/imagen.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				232547422CAB5FD800C70773 /* SceneDelegate.swift */,
 				232547442CAB5FD800C70773 /* ViewController.swift */,
 				232547462CAB5FD800C70773 /* Main.storyboard */,
+				EF25AAA12CB1E2D200529D18 /* imagen.jpeg */,
+				EF25AA9F2CB1E0B400529D18 /* JuegosViewController.swift */,
 				2325474C2CAB5FDA00C70773 /* Assets.xcassets */,
 				2325474E2CAB5FDA00C70773 /* LaunchScreen.storyboard */,
 				232547512CAB5FDA00C70773 /* Info.plist */,
@@ -128,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF25AAA22CB1E2D200529D18 /* imagen.jpeg in Resources */,
 				232547502CAB5FDA00C70773 /* LaunchScreen.storyboard in Resources */,
 				2325474D2CAB5FDA00C70773 /* Assets.xcassets in Resources */,
 				232547482CAB5FD800C70773 /* Main.storyboard in Resources */,
@@ -141,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF25AAA02CB1E0B400529D18 /* JuegosViewController.swift in Sources */,
 				232547452CAB5FD800C70773 /* ViewController.swift in Sources */,
 				232547412CAB5FD800C70773 /* AppDelegate.swift in Sources */,
 				232547432CAB5FD800C70773 /* SceneDelegate.swift in Sources */,
